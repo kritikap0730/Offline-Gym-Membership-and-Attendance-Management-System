@@ -1,0 +1,3 @@
+ID    Name            Location        Phone           Email                     Membership Date      Plan       Price      Attendance Loyalty    Active     Full Payment    Discount        Net Paid            
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1     werf            sdcfvgbhn       1234567899      xsdcfvgb                  1/Jan/1950           Standard   12500.0    30         150.0      Yes        -               -               -                   
